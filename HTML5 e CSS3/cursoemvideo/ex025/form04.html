@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Login</h1>
+    <form action="cadastro.php" method="post">
+        <fieldset>
+            <legend>Esportes</legend>
+
+            <input type="checkbox" name="bas" id="bas"> 
+            <label for="bas">Basquete</label>
+            <br>
+            <input type="checkbox" name="fut" id="fut">
+            <label for="fut">Futebol</label>
+        </fieldset>
+        <fieldset>
+            <legend>Sexo</legend>
+            <input type="radio" name="sex" id="mas">
+            <label for="mas">Masculino</label>
+            <br>
+            <input type="radio" name="sex" id="fem">
+            <label for="fem">Feminino</label>
+        </fieldset>
+        <fieldset>
+            <legend>Cor e Imagem</legend>
+            <label for="cor">Cor</label>
+            <input type="color" name="cor" id="cor">
+            <br>
+            <label for="lvl">Nível</label>
+            <input type="range" name="lvl" id="lvl">
+            <br>
+            <label for="foto">Foto</label>
+            <input type="file" name="foto" id="foto">
+        </fieldset>
+        <fieldset>
+            <p>
+                <label for="uf">Estado UF:</label>
+                <select name="uf" id="uf">
+                    <optgroup label="Sudeste">
+                        <option value="MG">MG</option>
+                        <option value="RJ">RJ</option>
+                        <option value="SP">SP</option>
+                    </optgroup>
+                </select>
+            </p>
+            <p>
+                <label for="prof">Profissão</label>
+                <input type="text" name="prof" id="prof" list="lsprof">
+                <datalist id="lsprof">
+                    <option>AMD</option>
+                    <option>cawdawd</option>
+                    <option>maodmwdiao</option>
+                </datalist>
+            </p>
+            <p>
+                <label for="msg">Mensagem</label><br>
+                <textarea name="msg" id="msg" cols="30" rows="10"></textarea>
+            </p>
+        </fieldset>
+        <p></p>
+        <fieldset>
+            <legend>Números</legend>
+            <label for="num1">Número 1:</label>
+            <input type="number" name="num1" id="num1" oninput="soma.innerHTML = Number(num1.value) + Number(num2.value)">
+            <br>
+            <label for="num2">Número 2:</label>
+            <input type="number" name="num2" id="num2" oninput="soma.innerHTML = Number(num1.value) + Number(num2.value)">
+            <p>
+                <label for="soma">Soma: </label>
+                <output name="soma" id="soma">0</output>
+            </p>
+        </fieldset>
+    </form>
+</body>
+</html>
