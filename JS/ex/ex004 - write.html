@@ -4,9 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Texto na tela</title>
     <style>
         body {
+            background-color: rgb(100, 3, 3);
+            color: white;
             font: normal 20pt Arial;
         }
     </style>
@@ -15,7 +17,11 @@
     <script>
         var nome = window.prompt('Qual seu nome?')
         document.write(`Olá, ${nome}. Seu nome tem ${nome.length} letras.</br>`)
-        document.write(`Seu nome em maiúsculas é ${nome.toUpperCase()}.`)
+        document.write(`Seu nome em maiúsculas é ${nome.toUpperCase()}.</br>`)
+        n1 = 450.2
+        n1 = n1.toFixed(2)
+        n2 = Number(n1).toLocaleString('pt-br', {style:'currency', currency:'BRL'})
+        document.write(n2)
     </script>
 </body>
 </html>
