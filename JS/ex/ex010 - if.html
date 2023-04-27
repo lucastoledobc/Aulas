@@ -4,24 +4,32 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DETRAN</title>
+    <title>querySelector</title>
 </head>
+
 <body>
     <h1>Sistema de Multas</h1>
     Velocidade do carro: <input type="number" name="velo" id="velo" style="width: 100px;"> Km/h
+
     <p></p>
+
     <input type="button" value="Verificar" onclick="calcular()">
     <div id="res"></div>
-    <script>
-        function calcular() {
-            var txtvel = document.querySelector('input#velo')
-            var res = document.querySelector('div#res')
-            var vel = Number(txtvel.value)
-            res.innerHTML = `<p>A velocidade é de ${vel} km/h<p>.`
-            if (vel>60) {
-                res.innerHTML += 'Você foi MULTADO!'
-            }
-        }
-    </script>
 </body>
+
+<script>
+    function calcular() {
+        var txtvel = document.querySelector('input#velo')
+        var res = document.querySelector('div#res')
+        var vel = Number(txtvel.value)
+        res.innerHTML = `<p>A velocidade é de ${vel} km/h.<p>`
+        if (vel>60) {
+            res.innerHTML += 'Você foi MULTADO!'
+        }
+        else {
+            res.innerHTML += 'Tenha uma boa viagem!'
+        }
+    }
+</script>
+
 </html>

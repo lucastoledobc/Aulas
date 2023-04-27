@@ -14,16 +14,18 @@
     <div id="res">
         Resultado
     </div>
-    <script>
-        function somar() {
-            var tn1 = document.getElementById('txtn1')
-            var tn2 = document.getElementById('txtn2')
-            var res =document.getElementById('res')
-            var n1 = Number(tn1.value)
-            var n2 = Number(tn2.value)
-            var s = n1 + n2
-            res.innerHTML = s
-        }
-    </script>
 </body>
+
+<script>
+    function somar() {
+        n1 = document.getElementById('txtn1')
+        n2 = document.getElementById('txtn2')
+        s = Number(n1.value) + Number(n2.value)
+        //n1 e n2 são texto, por isso precisa do value
+
+        res = document.getElementById('res')
+        res.innerHTML = s
+    }
+</script>
+
 </html>
