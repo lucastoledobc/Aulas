@@ -5,9 +5,12 @@ function parimp(n) {
         return'ímpar'}
 }
 
-let c = parimp(11)
+console.log(parimp(20))
 
+let c = parimp(11)
 console.log(c)
+
+
 
 let v = function(x) {
     return x*2

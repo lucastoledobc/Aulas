@@ -13,18 +13,25 @@ function verificar() {
         if (sex[0].checked) {
             gen = 'homem'
             if (idade <18)
-                img.setAttribute('src', 'azulclaro.png')
+                img.setAttribute('src', 'img/azulclaro.png')
             else
-                {img.setAttribute('src', 'azulescuro.png')}
+                {img.setAttribute('src', 'img/azulescuro.png')}
         }
         else {gen = 'mulher'
             if (idade <18)
-                img.setAttribute('src', 'rosaclaro.png')
+                img.setAttribute('src', 'img/rosaclaro.png')
             else
-                img.setAttribute('src', 'rosaescuro.png')
+                img.setAttribute('src', 'img/rosaescuro.png')
         }    
 
-        res.innerHTML = `Essa pessoa tem ${idade} anos e é ${gen}`
+        res.innerHTML = `Essa pessoa tem ${idade} anos e é ${gen}.`
+
+        
         res.appendChild(img)
+
+        img.style.padding = '10px'
+        img.style.display = 'block'
+        img.style.margin = 'auto'
+        img.style.borderRadius = '50%'
     }
 }
