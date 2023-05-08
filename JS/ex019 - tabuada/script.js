@@ -1,5 +1,5 @@
 function contar() {
-    var n = document.getElementById('txtn')
+    var n = document.getElementById('num')
     var res = document.getElementById('res')
 
     if (n.value.length == 0) {
@@ -11,6 +11,4 @@ function contar() {
             res.innerHTML += `${n} x ${c} = ${n*c}<br>`
         }
     }
-
-
 }

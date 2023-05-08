@@ -1,25 +1,56 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
 body {
     background: rgb(87, 160, 255);
     font: normal 15pt Arial;
 }
+
+
+
+
+
 header {
     color: white;
     text-align: center;
+    text-shadow: 2px 2px 5px black;
+    padding: 40px;
 }
 
-section {
+
+
+
+
+main {
     background: white;
     border-radius: 10px;
+    width: 50%;
+    max-width: 500px;
     padding: 15px;
-    width: 500pc;
     margin: auto;
     box-shadow: 3px 3px 10px;
+}
 
+
+
+p {
+    padding: 15px 0px;
+}
+
+
+div#res {
+    padding: 15px 0;
+    
 }
 
 footer {
     color: white;
     text-align: center;
     font-size: italic;
-
+    padding: 10px;
 }
