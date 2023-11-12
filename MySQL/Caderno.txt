@@ -1,0 +1,17 @@
+nome
+ano
+valor
+uf
+
+área
+tema
+subtema
+assunto
+nivel
+
+tipo objetiva/discurssiva
+
+enunciado
+explicação 1
+explicação 2
+vídeo
