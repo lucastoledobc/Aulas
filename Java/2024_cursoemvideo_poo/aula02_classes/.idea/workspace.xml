@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a9bb234-9dfc-448e-b69a-f5df6c8ac768" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/04_01_PrimeiroPrograma/04_01_PrimeiroPrograma.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/04_x01_HoraDoSistema/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/04_x01_HoraDoSistema/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/04_x01_HoraDoSistema/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/04_x01_HoraDoSistema/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/04_x01_HoraDoSistema/04_01x_HoraDoSistema.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/04_x02_IdiomaDoSistema/04_x02_IdiomaDoSistema.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/04_x03_Resolucao/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/04_x03_Resolucao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/04_x03_Resolucao/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/04_x03_Resolucao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/04_x03_Resolucao/04_03x_Resolucao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/05_01_BibliotecaSwing/05_01_BibliotecaSwing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/06_01_TiposPrimitivos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/06_01_TiposPrimitivos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/06_01_TiposPrimitivos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/06_01_TiposPrimitivos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/06_01_TiposPrimitivos/06_01_TiposPrimitivos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/b05_02_JavaFx/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/b05_02_JavaFx/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/b05_02_JavaFx/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/b05_02_JavaFx/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/g_01_Operadores/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/g_01_Operadores/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/g_01_Operadores/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/g_01_Operadores/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/g_01_Operadores/g_01_Operadores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_cursoemvideo/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_cursoemvideo/PrimeiroProjeto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_cursoemvideo/PrimeiroProjeto/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_cursoemvideo/PrimeiroProjeto/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_cursoemvideo/PrimeiroProjeto/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_cursoemvideo/PrimeiroProjeto/PrimeiroProjeto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_cursoemvideo/PrimeiroProjeto/out/production/PrimeiroProjeto/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_cursoemvideo/PrimeiroProjeto/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2gcAkQxX1aVbCyshq3CBwUXdKN6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a9bb234-9dfc-448e-b69a-f5df6c8ac768" name="Changes" comment="" />
+      <created>1715986637210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715986637210</updated>
+    </task>
+    <servers />
+  </component>
+</project>
