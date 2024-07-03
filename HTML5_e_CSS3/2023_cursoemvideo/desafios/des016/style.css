@@ -1,0 +1,148 @@
+@charset "UTF-8";
+
+:root {
+    --verde: #49a09d;
+    --lilas: #5f2c82;
+}
+
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+main {
+    background-color: var(--lilas);
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+
+
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p {
+    margin: 0 0 10px 0px;
+}
+
+
+
+
+
+section#login {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    overflow: hidden;
+
+    background-color: white;
+    width: 250px;
+    height: 515px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.486);
+
+    transition: width .1s, heiht .1s;
+}
+
+
+section#login > div#img {
+    display: block;
+    height: 200px;
+    background: var(--lilas) url(img/metal.jpg) no-repeat left bottom fixed;
+    background-size: cover;
+
+}
+
+section#login > div#formu {
+    margin: 0 0 10px 10px;
+}
+
+
+input {
+    margin:5px
+}
+
+
+
+label {
+    margin: 1px;
+    font-family: monospace;
+    font-size: 1.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 800px) and (max-width: 992px) { 
+    main {
+        background-image: linear-gradient(to top, var(--verde), var(--lilas));
+    }
+
+    section#login {
+        width: 80%;
+        height: 30%;
+    }
+
+    section#login > div#img {
+        float: left;
+        width: 55%;
+        height: 100%;
+    }
+
+    div#form {
+        float: right;
+        width: 45%;
+        height: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+@media screen and (min-width: 992px) { 
+    main {
+        background-image: linear-gradient(to top, var(--verde), var(--lilas));
+    }
+
+    section#login {
+        width: 950px;
+        height: 300px;
+    }
+
+    section#login > div#img {
+        float: left;
+        width: 60%;
+        height: 100%;
+    }
+
+    section#login > div#form {
+        float: right;
+        width: 40%;
+        height: 100%;
+    }
+}

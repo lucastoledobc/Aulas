@@ -1,0 +1,94 @@
+@charset "UTF-8";
+
+/* google icons */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    width: 100vw;
+}
+
+header {
+    background-color: gray;
+}
+h1 {
+    text-align: center;
+    margin: auto;
+    padding: 40px;
+}
+
+menu {
+    display: none;
+}
+
+span#burguer {
+    display: block;
+    background-color: rgb(82, 82, 82);
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+span#burguer:hover {
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+a {
+    display: block;
+    background-color: rgb(82, 82, 82);
+    border: 1px solid black;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+main {
+    background-color: white;
+    margin: 10px 50px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+p {
+    padding: 10px;
+    text-align: justify;
+    text-indent: 20px;
+}
+
+@media screen and (min-width: 1000px) {
+    span#burguer {
+        display: none;
+    }
+
+    menu {
+        display: block;
+    }
+
+    ul, li, a {
+        display: inline-block;
+    }
+
+    main {
+        width: 900px;
+        margin: 10px auto;
+    }
+    
+}
