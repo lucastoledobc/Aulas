@@ -78,17 +78,17 @@ fill_opacity=1, (opacidade)
 stroke_width=0.1, (contorno)
 color=BLUE, (cor)
 font_size=40, (tamanho)
-line_spacing=100, 
-font='Lato', 
-slant='NORMAL', 
-weight='NORMAL', 
-justify=True, 
-gradient=None, 
+line_spacing=-1, 
+font='Lato', (fonte)
+slant='NORMAL', (ITALIC)
+weight='NORMAL', (BOLD)
+justify=False, (justificado)
+gradient=None, ([COR1,COR2])
 tab_width=1, 
-height=None, 
-width=None, 
-should_center=True, 
-disable_ligatures=False, 
+height=None, (altura)
+width=None, (largura)
+should_center=True, (centralizar)
+disable_ligatures=False, (letras que formam uma)
 warn_missing_font=True
 
 
@@ -106,7 +106,7 @@ warn_missing_font=True
 <span foreground="red">temporary change of color</span>
 <span fgcolor="red">temporary change of color</span>
 <gradient from="YELLOW" to="RED">temporary gradient</gradient>
-![teste_ManimCE_v0 18 1](https://github.com/user-attachments/assets/9738f8d2-39ea-4f75-834d-20255b254ce5)
+<gradient from="RED" to="YELLOW" offset="2,1">example</gradient> to start the gradient two letters earlier and end it one letter earlier
 
 
 
