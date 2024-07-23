@@ -69,3 +69,18 @@ usa se for fazer um texto grande onde a mesma variável vai ser usada várias ve
 
 
 mode php em vez de fast cgi (mais memória, mais segurança) 
+
+xampp = 127.0.0.1 - no navegador, é um ip de retorno
+
+Livros:
+
+- https://www.php.net/manual/pt_BR/
+- Aprendendo PHP - Ed O'Reilly
+- Programming PHP - Ed O'Reilly
+- Learn PHP 8 - Ed Apress
+- PHP Quick Scripting Reference - Ed Apress
+- PHP&MYSQL - Ed Wiley
+
+Rasmus Lerdofy - criador 1994
+PHP foi escrito em C e pearl, por isso os comandos são parecidos
+Zeev e Andi -> desenvolveram php3 e Zend cuida até hoje
