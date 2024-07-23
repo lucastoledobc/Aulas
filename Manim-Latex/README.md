@@ -78,7 +78,7 @@ fill_opacity=1, (opacidade)
 stroke_width=0.1, (contorno)
 color=BLUE, (cor)
 font_size=40, (tamanho)
-line_spacing=-1, 
+line_spacing=-1, (espaço entre linhas, -1 == auto)
 font='Lato', (fonte)
 slant='NORMAL', (ITALIC)
 weight='NORMAL', (BOLD)
