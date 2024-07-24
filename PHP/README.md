@@ -1,5 +1,16 @@
 comandos:
-echo “teste <br>”;
+
+<?php ?> supertag
+
+
+echo “teste <br>”; (ou print)
+
+Emoji: Se o emoji é U+1F30E, coloque \u{1F30E}
+
+$a: variável a/valor de a. 
+(Fica na memória do servidor)
+(Variável não pode começar com número)
+
 - Variável Referenciável
 $a = 1; (a recebe o atributo 1)
 $b = &$a
