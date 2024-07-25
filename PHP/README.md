@@ -11,6 +11,11 @@ $a: variável a/valor de a.
 (Fica na memória do servidor)
 (Variável não pode começar com número)
 
+'' e "" são diferentes 
+'' é literal, n tem interpretação
+
+
+
 - Variável Referenciável
 $a = 1; (a recebe o atributo 1)
 $b = &$a
