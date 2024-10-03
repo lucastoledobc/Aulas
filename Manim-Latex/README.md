@@ -123,6 +123,7 @@ MathTex(r"\int_a^b f'(x) dx = f(b)- f(a)")
 
 LATEX
 
+Instalar: https://miktex.org/download
 \documentclass[a4paper, 12pt] {article}
 \userpackege[top=xcm, bottom=xcm, left=xcm, right=xcm]{geometry}
 \userpackage[utf8]{inputenc}
