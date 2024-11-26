@@ -131,7 +131,11 @@ LATEX
 teste
 \end{document}
 
+\cdot -> multiplicar
 
+\lambda
+
+\dot -> coloca derivada temporal na prox variavel 
 
 
 
