@@ -7,7 +7,9 @@ fixed: fica presa na tela, não importa se mover
 stick: nav que fica presa na tela
 
 
-Flex:
+-> display:
+
+> flex:
 
 align-itens: center (vertical)
 height: 100% (definir os blocos, não ficarem um dentro do outro)
@@ -19,3 +21,8 @@ justify-content: organiza os itens na orizontal
 
 
 CSM (Customer Service Management), ESM (Enterprise Service Management), and SIAM
+
+
+> grid:
+
+grid-template-columns: 50% 50%;

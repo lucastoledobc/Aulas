@@ -1,0 +1,15 @@
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\bin\Debug\net9.0\2Strings.exe
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\bin\Debug\net9.0\2Strings.deps.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\bin\Debug\net9.0\2Strings.runtimeconfig.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\bin\Debug\net9.0\2Strings.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\bin\Debug\net9.0\2Strings.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\obj\Debug\net9.0\2Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\obj\Debug\net9.0\2Strings.AssemblyInfoInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\obj\Debug\net9.0\2Strings.AssemblyInfo.cs
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\obj\Debug\net9.0\2Strings.csproj.CoreCompileInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\obj\Debug\net9.0\2Strings.sourcelink.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\obj\Debug\net9.0\2Strings.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\obj\Debug\net9.0\refint\2Strings.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\obj\Debug\net9.0\2Strings.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\obj\Debug\net9.0\2Strings.genruntimeconfig.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\2Strings\obj\Debug\net9.0\ref\2Strings.dll

@@ -1,0 +1,15 @@
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\bin\Debug\net9.0\1HelloWorld.exe
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\bin\Debug\net9.0\1HelloWorld.deps.json
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\bin\Debug\net9.0\1HelloWorld.runtimeconfig.json
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\bin\Debug\net9.0\1HelloWorld.dll
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\bin\Debug\net9.0\1HelloWorld.pdb
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\obj\Debug\net9.0\1HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\obj\Debug\net9.0\1HelloWorld.AssemblyInfoInputs.cache
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\obj\Debug\net9.0\1HelloWorld.AssemblyInfo.cs
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\obj\Debug\net9.0\1HelloWorld.csproj.CoreCompileInputs.cache
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\obj\Debug\net9.0\1HelloWorld.sourcelink.json
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\obj\Debug\net9.0\1HelloWorld.dll
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\obj\Debug\net9.0\refint\1HelloWorld.dll
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\obj\Debug\net9.0\1HelloWorld.pdb
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\obj\Debug\net9.0\1HelloWorld.genruntimeconfig.cache
+D:\Documentos\Program\Aulas\C#-F#-VisualBasic\dotnet\C#forBeginners\1HelloWorld\obj\Debug\net9.0\ref\1HelloWorld.dll

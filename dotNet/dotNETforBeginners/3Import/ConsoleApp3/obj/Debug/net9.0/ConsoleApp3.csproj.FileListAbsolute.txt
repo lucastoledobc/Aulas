@@ -1,0 +1,6 @@
+D:\Documentos\Program\Aulas\dotNet\dotNETforBeginners\3Import\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Documentos\Program\Aulas\dotNet\dotNETforBeginners\3Import\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Program\Aulas\dotNet\dotNETforBeginners\3Import\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Documentos\Program\Aulas\dotNet\dotNETforBeginners\3Import\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfo.cs
+D:\Documentos\Program\Aulas\dotNet\dotNETforBeginners\3Import\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Documentos\Program\Aulas\dotNet\dotNETforBeginners\3Import\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.sourcelink.json
