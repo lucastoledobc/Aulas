@@ -1,0 +1,5 @@
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7LINQ\obj\Debug\net9.0\7LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7LINQ\obj\Debug\net9.0\7LINQ.AssemblyInfoInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7LINQ\obj\Debug\net9.0\7LINQ.AssemblyInfo.cs
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7LINQ\obj\Debug\net9.0\7LINQ.csproj.CoreCompileInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7LINQ\obj\Debug\net9.0\7LINQ.sourcelink.json

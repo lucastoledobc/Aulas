@@ -1,0 +1,15 @@
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\bin\Debug\net9.0\6List.exe
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\bin\Debug\net9.0\6List.deps.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\bin\Debug\net9.0\6List.runtimeconfig.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\bin\Debug\net9.0\6List.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\bin\Debug\net9.0\6List.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\obj\Debug\net9.0\6List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\obj\Debug\net9.0\6List.AssemblyInfoInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\obj\Debug\net9.0\6List.AssemblyInfo.cs
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\obj\Debug\net9.0\6List.csproj.CoreCompileInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\obj\Debug\net9.0\6List.sourcelink.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\obj\Debug\net9.0\6List.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\obj\Debug\net9.0\refint\6List.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\obj\Debug\net9.0\6List.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\obj\Debug\net9.0\6List.genruntimeconfig.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\6List\obj\Debug\net9.0\ref\6List.dll

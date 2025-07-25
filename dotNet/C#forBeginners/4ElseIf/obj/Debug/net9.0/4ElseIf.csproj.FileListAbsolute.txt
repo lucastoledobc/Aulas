@@ -1,0 +1,15 @@
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\bin\Debug\net9.0\4ElseIf.exe
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\bin\Debug\net9.0\4ElseIf.deps.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\bin\Debug\net9.0\4ElseIf.runtimeconfig.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\bin\Debug\net9.0\4ElseIf.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\bin\Debug\net9.0\4ElseIf.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\obj\Debug\net9.0\4ElseIf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\obj\Debug\net9.0\4ElseIf.AssemblyInfoInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\obj\Debug\net9.0\4ElseIf.AssemblyInfo.cs
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\obj\Debug\net9.0\4ElseIf.csproj.CoreCompileInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\obj\Debug\net9.0\4ElseIf.sourcelink.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\obj\Debug\net9.0\4ElseIf.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\obj\Debug\net9.0\refint\4ElseIf.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\obj\Debug\net9.0\4ElseIf.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\obj\Debug\net9.0\4ElseIf.genruntimeconfig.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\4ElseIf\obj\Debug\net9.0\ref\4ElseIf.dll

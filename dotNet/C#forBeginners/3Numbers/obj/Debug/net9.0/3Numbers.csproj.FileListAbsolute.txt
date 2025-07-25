@@ -1,0 +1,15 @@
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\obj\Debug\net9.0\3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\obj\Debug\net9.0\3Numbers.AssemblyInfoInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\obj\Debug\net9.0\3Numbers.AssemblyInfo.cs
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\obj\Debug\net9.0\3Numbers.csproj.CoreCompileInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\obj\Debug\net9.0\3Numbers.sourcelink.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\bin\Debug\net9.0\3Numbers.exe
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\bin\Debug\net9.0\3Numbers.deps.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\bin\Debug\net9.0\3Numbers.runtimeconfig.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\bin\Debug\net9.0\3Numbers.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\bin\Debug\net9.0\3Numbers.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\obj\Debug\net9.0\3Numbers.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\obj\Debug\net9.0\refint\3Numbers.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\obj\Debug\net9.0\3Numbers.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\obj\Debug\net9.0\3Numbers.genruntimeconfig.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\3Numbers\obj\Debug\net9.0\ref\3Numbers.dll

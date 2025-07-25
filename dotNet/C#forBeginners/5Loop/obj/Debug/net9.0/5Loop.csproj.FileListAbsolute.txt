@@ -1,0 +1,15 @@
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\obj\Debug\net9.0\5Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\obj\Debug\net9.0\5Loop.AssemblyInfoInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\obj\Debug\net9.0\5Loop.AssemblyInfo.cs
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\obj\Debug\net9.0\5Loop.csproj.CoreCompileInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\obj\Debug\net9.0\5Loop.sourcelink.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\bin\Debug\net9.0\5Loop.exe
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\bin\Debug\net9.0\5Loop.deps.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\bin\Debug\net9.0\5Loop.runtimeconfig.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\bin\Debug\net9.0\5Loop.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\bin\Debug\net9.0\5Loop.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\obj\Debug\net9.0\5Loop.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\obj\Debug\net9.0\refint\5Loop.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\obj\Debug\net9.0\5Loop.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\obj\Debug\net9.0\5Loop.genruntimeconfig.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\5Loop\obj\Debug\net9.0\ref\5Loop.dll
