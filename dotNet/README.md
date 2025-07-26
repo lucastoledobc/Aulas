@@ -22,18 +22,21 @@ O código já começa como um:
 
 Então escreva seu código e digite `dotnet run`.
 
+
 ### Strings
 string nome1 = "Lucas";
-string frase = $"Meu nome é {nome1}.";
+string frase = $"Meu nome é {nome1}.";  
+
 
 ### Numbers
-int n = 18; // 32 bits
+int n = 18; // 32 bits  
 long n = 1; // 64 bits
 
-float n = 3.2f; // 16 bits
+float n = 3.2f; // 16 bits  
 double n = 3.2; // 32 bits
 
 decimal n = 3.5m; // 64 bits
+
 
 ### If / Else
 ```
@@ -41,7 +44,16 @@ if((a + b > 10) && (a == b))
 {
     Console.WriteLine("A soma é maior que dez e os números são iguais");
 }
+else if((a + b > 10) || (a == b))
+{
+    Console.WriteLine("A soma é maior que dez ou são iguais");
+}
+else
+{
+    Console.WriteLine("A soma não é maior que dez e não são iguais");
+}
 ```
+
 
 ### Loops
 ```
@@ -56,7 +68,8 @@ for (int i = 0; i < 5; i++)
 {
     Console.WriteLine($"i: {i}");
 }
-```
+```  
+
 
 ### List
 ```
@@ -68,16 +81,44 @@ foreach (var n in numbers[1..3])
 }
 ```
 
+
 ### LINQ
 ```
-IEnumerable<int> scoreQuery =
+IEnumerable<string> numbersQuery =
     from score in scores
     where score > 80
     orderby score ascending
-    select score;
+    select $"The score is {score}.";
 
-foreach (int i in scoreQuery)
+foreach (string i in numbersQuery)
 {
     Console.WriteLine(i);
+}
+```
+
+
+### OOP
+```
+using System;
+
+namespace MySpace
+{
+    public class MyApp
+    {
+        public static void Main()
+        {
+            Console.WriteLine("oie");
+        }
+    }
+}
+```
+```
+var p1 = new Person("Lucas", "Chagas", new DateOnly(1995, 1, 1));
+
+public class Person(string firstname, string lastname, DateOnly birthday)
+{
+    public string First { get; } = firstname;
+    public string Last { get; } = lastname;
+    public DateOnly Birth { get; } = birthday;
 }
 ```

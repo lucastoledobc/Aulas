@@ -45,3 +45,12 @@ foreach (string i in scoreQuery3)
 {
     Console.WriteLine(i);
 }
+
+Console.WriteLine();
+
+var scoreQuery4 = scores.Where(s => s > 80).OrderBy(s => s);
+
+foreach (int i in scoreQuery4)
+{
+    Console.WriteLine(i);
+}

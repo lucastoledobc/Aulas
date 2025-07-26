@@ -1,0 +1,15 @@
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\bin\Debug\net9.0\9OOP.exe
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\bin\Debug\net9.0\9OOP.deps.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\bin\Debug\net9.0\9OOP.runtimeconfig.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\bin\Debug\net9.0\9OOP.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\bin\Debug\net9.0\9OOP.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\obj\Debug\net9.0\9OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\obj\Debug\net9.0\9OOP.AssemblyInfoInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\obj\Debug\net9.0\9OOP.AssemblyInfo.cs
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\obj\Debug\net9.0\9OOP.csproj.CoreCompileInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\obj\Debug\net9.0\9OOP.sourcelink.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\obj\Debug\net9.0\9OOP.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\obj\Debug\net9.0\refint\9OOP.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\obj\Debug\net9.0\9OOP.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\obj\Debug\net9.0\9OOP.genruntimeconfig.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\9OOP\obj\Debug\net9.0\ref\9OOP.dll
