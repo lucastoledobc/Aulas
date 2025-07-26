@@ -1,0 +1,15 @@
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\obj\Debug\net9.0\8LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\obj\Debug\net9.0\8LINQ.AssemblyInfoInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\obj\Debug\net9.0\8LINQ.AssemblyInfo.cs
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\obj\Debug\net9.0\8LINQ.csproj.CoreCompileInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\obj\Debug\net9.0\8LINQ.sourcelink.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\bin\Debug\net9.0\8LINQ.exe
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\bin\Debug\net9.0\8LINQ.deps.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\bin\Debug\net9.0\8LINQ.runtimeconfig.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\bin\Debug\net9.0\8LINQ.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\bin\Debug\net9.0\8LINQ.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\obj\Debug\net9.0\8LINQ.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\obj\Debug\net9.0\refint\8LINQ.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\obj\Debug\net9.0\8LINQ.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\obj\Debug\net9.0\8LINQ.genruntimeconfig.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\8LINQ\obj\Debug\net9.0\ref\8LINQ.dll

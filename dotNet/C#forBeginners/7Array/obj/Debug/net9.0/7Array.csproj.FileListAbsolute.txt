@@ -1,0 +1,15 @@
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\bin\Debug\net9.0\7Array.exe
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\bin\Debug\net9.0\7Array.deps.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\bin\Debug\net9.0\7Array.runtimeconfig.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\bin\Debug\net9.0\7Array.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\bin\Debug\net9.0\7Array.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\obj\Debug\net9.0\7Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\obj\Debug\net9.0\7Array.AssemblyInfoInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\obj\Debug\net9.0\7Array.AssemblyInfo.cs
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\obj\Debug\net9.0\7Array.csproj.CoreCompileInputs.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\obj\Debug\net9.0\7Array.sourcelink.json
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\obj\Debug\net9.0\7Array.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\obj\Debug\net9.0\refint\7Array.dll
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\obj\Debug\net9.0\7Array.pdb
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\obj\Debug\net9.0\7Array.genruntimeconfig.cache
+D:\Documentos\Program\Aulas\dotNet\C#forBeginners\7Array\obj\Debug\net9.0\ref\7Array.dll
