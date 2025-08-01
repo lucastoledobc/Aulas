@@ -1,10 +1,10 @@
 # .NET
 
-dotnet é um sistema que engloba C#, F# e Visual Basic.
+.NET é um sistema que engloba C#, F# e Visual Basic.
 
 Documentação: https://learn.microsoft.com/en-us/dotnet/
 
-## C#
+## C# (C++++)
 
 ### Hello World
 

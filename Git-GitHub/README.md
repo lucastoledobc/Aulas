@@ -1,3 +1,7 @@
+# Git
+
+Documentação: https://git-scm.com/doc
+
 git init -> iniciar
 git add <nome>   -> prepara o arquivo
 git add .   -> prepara todos os arquivos
@@ -25,3 +29,8 @@ git fetch -> atualiza o sistema com o que ta online
 git push <nome’> --delete <nome”> - deleta branch remoto
 git remote rename <nome_antigo> <nome_novo>
 git remote remove <nome’>
+
+
+# GitHub
+
+Documentação: https://docs.github.com/en

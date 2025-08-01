@@ -1,10 +1,14 @@
+# C
+
 linguagem Linux
 
-# Instalação:
+DocumentaÃ§Ã£o: https://devdocs.io/c/
 
-## Visual Studio:
+## InstalaÃ§Ã£o:
 
-Baixa o Visual Studio (https://visualstudio.microsoft.com/pt-br/downloads/) e o Desenvolvimento da área de trabalho com C++.
+### Visual Studio:
+
+Baixa o Visual Studio (https://visualstudio.microsoft.com/pt-br/downloads/) e o Desenvolvimento da ï¿½rea de trabalho com C++.
 
 Abra o Developer Command Prompt for VS 2022 e digite `cl` e se estiver funcionando vai aparecer algo como:
 
@@ -18,7 +22,7 @@ usage: cl [ option... ] filename... [ /link linkoption... ]
 
 ### Hello World
 
-Entra na pasta e escreva seu arquivo.c, depois vá no Developer PowerShell e escreva `cl arquivo.c` e vai aparecer:
+Entra na pasta e escreva seu arquivo.c, depois vï¿½ no Developer PowerShell e escreva `cl arquivo.c` e vai aparecer:
 
 * arquivo.exe
 * arquivo.obj (binarios)

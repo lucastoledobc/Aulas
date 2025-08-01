@@ -1,4 +1,6 @@
-Manim
+# ManimCE
+
+Documentação: https://docs.manim.community/en/stable/
 
 class <nome>(<tipo>):
     def construct(self):
@@ -112,7 +114,7 @@ warn_missing_font=True
 
 
 
-MathTex
+# MathTex
 Não aceita UTF8.
 MathTex("a^2 + b^2 = c^2")
 MathTex(r"\int_a^b f'(x) dx = f(b)- f(a)")

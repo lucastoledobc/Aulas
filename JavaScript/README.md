@@ -1,3 +1,8 @@
+# JavaScript
+
+Documentação (Mozilla): https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
 var: pode ser local ou global (é velho tem bugs)
 let e const: é para bloco (se for declarada fora e dentro de um bloco, funciona normal como variáveis independentes) (não podem ser redeclaradas)
 let pode ser mudada mas const não.
