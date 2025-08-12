@@ -1,5 +1,7 @@
 # C
 
+Criado por Dennis Ritchie em 1972.  
+
 linguagem Linux
 
 Documentação: https://devdocs.io/c/
@@ -29,3 +31,30 @@ Entra na pasta e escreva seu arquivo.c, depois v� no Developer PowerShell e es
 
 Para executar, escreva no terminal: `.\arquivo.exe`
 
+
+### Variáveis
+
+```
+    int myNum = 15;
+    printf("%d\n", myNum);
+```
+%d or %i 	int  
+%f or %F 	float  
+%lf 	double  
+%c 	char  
+%s strings
+
+
+### UTF-8
+
+Adicione a biblioteca 
+
+`#include <locale.h>`
+
+Coloque a linha
+
+`setlocale(LC_ALL, "Portuguese_Brasil");`
+
+E no command prompt execute:
+
+`chcp 65001`
