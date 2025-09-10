@@ -10,7 +10,7 @@ Documentação: https://devdocs.io/c/
 
 ### Visual Studio:
 
-Baixa o Visual Studio (https://visualstudio.microsoft.com/pt-br/downloads/) e o Desenvolvimento da �rea de trabalho com C++.
+Baixe o Visual Studio (https://visualstudio.microsoft.com/pt-br/downloads/) e o Desenvolvimento da �rea de trabalho com C++.
 
 Abra o Developer Command Prompt for VS 2022 e digite `cl` e se estiver funcionando vai aparecer algo como:
 
