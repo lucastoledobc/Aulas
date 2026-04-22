@@ -1,6 +1,7 @@
-print('Vamos somar!')
-n=input('Qual o primeiro número?')
-m=input('Qual o segundo número')
-print('A resposta é:',n + m)
-print('Brincadeira. A resposta é ',int(n)+int(m))
+brasil=[{'nome':'lucas', 'uf':20}, {'nome':'toledo', 'uf':13}]
 
+print(brasil)
+
+brasil = sorted(brasil, key=lambda d: d['uf'])
+
+print(brasil)
