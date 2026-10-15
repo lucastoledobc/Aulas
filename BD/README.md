@@ -1,98 +1,84 @@
-Um banco de dados é essencialmente um sistema de gerenciamento de variáveis persistentes de altíssima performance.
+# Banco de dados
 
-# SQL
-SQL é a linguagem do SGBD.
+Um banco de dados como um todo é essencialmente um sistema de gerenciamento de variáveis persistentes de altíssima performance. Ou seja, uma forma de salvar dados no HD de forma rápida e eficiente.
 
-DML (Data Manipulation Language): Manipula os registros dentro das tabelas.
+Todo ecossistema pode ser dividido mais precisamente em:
 
-  SELECT: Consulta e filtra dados existentes.
-
-  INSERT: Insere novas linhas de dados.
-
-  UPDATE: Altera dados já existentes.
-
-  DELETE: Remove linhas de dados.
-
-DDL (Data Definition Language): Define e altera a estrutura do banco (esquema).
-
-  CREATE TABLE: Cria uma nova tabela e define suas colunas e tipos.
-
-  ALTER TABLE: Adiciona ou remove colunas de uma tabela existente.
-
-  DROP TABLE: Exclui uma tabela inteira e seus dados do disco.
-
-DCL (Data Control Language): Controla permissões de acesso de usuários.
-
-  GRANT: Concede acesso a determinados dados ou operações.
-
-  REVOKE: Remove permissões de acesso.
-
-TCL (Transaction Control Language): Gerencia transações e garante as propriedades ACID.
-
-  COMMIT: Salva permanentemente as alterações da transação atual.
-
-  ROLLBACK: Desfaz as alterações feitas na transação caso ocorra um erro.
+1. Banco de dados (Database): onde estão os valores.
+2. SGDB: o programa que gerencia os dados.
+3. Plugins/UI/Bibliotecas: conectam o usuário ao SGDB.
 
 
-# SGDB
-
-SGBD é o motor que gerencia o banco de dados. Exemplos: SQLite, MySQL e PostgreSQL.
-
-O que ó SGDB faz quando recebe um comando em SQL:
-
-O que o código C/C++ do SGBD faz em cada etapa:
-1. Parser (Análise Sintática)
-
-O motor recebe o SQL como um simples ponteiro de caracteres (uma string pura).
-
-  O código C percorre essa string quebrando-a em tokens (SELECT, FROM, WHERE).
-
-  Ele valida a sintaxe e constrói uma árvore estruturada em memória chamada AST (Abstract Syntax Tree), verificando se a tabela usuarios e a coluna idade realmente existem nos dicionários do sistema.
-
-2. Query Planner & Optimizer (O Cérebro)
-
-Esta é a parte mais complexa da engenharia de um SGBD. O motor não sai executando o comando cegamente.
-
-  O otimizador analisa as estatísticas dos dados e decide: "Vale mais a pena usar o índice B-Tree na coluna idade ou ler o arquivo inteiro do disco?"
-
-  Ele gera um Plano de Execução (uma sequência de rotinas e funções internas a serem chamadas).
-
-3. Executor (A Máquina de Estado)
-
-O executor pega o plano otimizado e chama as funções C de baixo nível para buscar os dados:
-
-  Ele chama iteradores de leitura de disco (read_page(), fetch_next_row()).
-
-  Carrega os dados para o Buffer Pool na memória RAM.
-
-  Aplica a comparação condicional (if (linha.idade > 30)).
-
-4. Serializador de Resposta
-
-Os dados encontrados são convertidos do formato binário interno do banco para o protocolo de rede (ou buffer de memória, no caso do SQLite) e devolvidos para o cliente que fez a requisição.
-
-# Modelos
+## Estruturas
 
 A primeira grande divisão é como a informação é estruturada e relacionada:
 
 - Relacional (SQL): Dados organizados em tabelas estritas (linhas e colunas) conectadas por chaves (PK/FK). É ideal quando a integridade dos dados e a consistência são prioridades.
 
-  Exemplos: PostgreSQL, MySQL, SQLite, Oracle.
+  - Exemplos: PostgreSQL, MySQL, SQLite, Oracle.
 
 - Documentos (NoSQL): Dados armazenados como objetos flexíveis (geralmente JSON). Excelente para prototipagem rápida e esquemas variáveis.
 
-  Exemplos: MongoDB, CouchDB.
+  - Exemplos: MongoDB, CouchDB.
 
 - Chave-Valor (NoSQL): Estrutura ultra-rápida baseada em pares de chave e conteúdo, operando prioritariamente em memória RAM.
 
-  Exemplos: Redis, Memcached.
+  - Exemplos: Redis, Memcached.
 
 - Grafos (NoSQL): Focado em nós e arestas para mapear relacionamentos complexos e redes interpessoais ou conexões de alta intensidade.
 
-  Exemplos: Neo4j, ArangoDB.
+  - Exemplos: Neo4j, ArangoDB.
 
 
-# Propriedades
+## SGDB (Sistema de Gerenciador de Banco de Dados) 
+
+SGBD é o motor que gerencia o banco de dados, é o programa.
+Para que um software seja considerado um SGBD (seja ele um código próprio simples ou um PostgreSQL com milhões de linhas de código), ele precisa resolver quatro problemas fundamentais:
+
+1. Mapeamento de Memória para Disco: Transferir dados da RAM (volátil) para o Disco (persistente) de forma eficiente.
+
+2. Concorrência: Garantir que 1.000 pessoas alterando o mesmo arquivo ao mesmo tempo não destruam a informação.
+
+3. Recuperação de Falhas: Saber exatamente o que foi salvo e o que ficou pela metade caso o computador desligue repentinamente.
+
+4. Indexação e Busca: Encontrar a informação em milissegundos sem precisar ler o disco inteiro.
+
+Exemplos: 
+- SQLite: Banco embarcado. O SQLite fica dentro do programa e é usado para se conectar a um banco externo.
+- MySQL / MariaDB: servidor separado focado pra Web. O site conecta ao SGDB, ele gerencia todos os dados e volta com a resposta.
+- PostgreSQL: Servidor extensível com multi processos. Melhor para aplicações mais complexas.
+
+
+## SQL (Linguagem de consulta)
+
+SQL é a linguagem do SGBD.
+
+- DML (Data Manipulation Language): Manipula os registros dentro das tabelas.
+
+  - SELECT: Consulta e filtra dados existentes.
+  - INSERT: Insere novas linhas de dados.
+  - UPDATE: Altera dados já existentes.
+  - DELETE: Remove linhas de dados.
+
+- DDL (Data Definition Language): Define e altera a estrutura do banco (esquema).
+
+  - CREATE TABLE: Cria uma nova tabela e define suas colunas e tipos.
+  - ALTER TABLE: Adiciona ou remove colunas de uma tabela existente.
+  - DROP TABLE: Exclui uma tabela inteira e seus dados do disco.
+
+- DCL (Data Control Language): Controla permissões de acesso de usuários.
+
+  - GRANT: Concede acesso a determinados dados ou operações.
+  - REVOKE: Remove permissões de acesso.
+
+- TCL (Transaction Control Language): Gerencia transações e garante as propriedades ACID.
+
+  - COMMIT: Salva permanentemente as alterações da transação atual.
+  - ROLLBACK: Desfaz as alterações feitas na transação caso ocorra um erro.
+
+
+
+## Propriedades
 
 Propriedades ACID (Bancos Relacionais Clássicos)
 
