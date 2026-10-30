@@ -2,6 +2,10 @@
 
 Documentação: https://nodejs.org/docs/latest/api/
 
+# Upgrade
+
+winget upgrade OpenJS.NodeJS
+
 ## Comandos
 
 <-- Tutorial -->
@@ -12,6 +16,3 @@ var = require('modulo'); Chama o módulo modulo e chama de var.
 
 ## Atualização dos pacotes
 
-npx npm-check-updates -u
-Remove-Item -Recurse -Force node_modules, package-lock.json
-npm install

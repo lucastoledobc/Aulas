@@ -1,12 +1,4 @@
-Onde começar agora (do zero ao robusto):
-
-Aprenda o básico de React: Entenda o que são props, useState e components.
-
-Next.js (App Router): É o padrão atual de mercado.
-
-Tailwind CSS: Para estilização rápida e global
-
-
+# Instalação
 
 npx create-next-app@latest .
 
@@ -34,7 +26,15 @@ Sim, vai poder importar direto da raíz em vez de precisar digitar ../../../...
 √ Would you like to include AGENTS.md to guide coding agents to write up-to-date Next.js code? ... No / Yes
 Não, é para caso queria colcoar IA's para criar o site sozinho
 
+# Update 
+
+npx npm-check-updates -u
+npm install
+
+
+# Pastas
 src/app/
 layout.js: Este é o "molde" do seu site. O que você colocar aqui (como o seu Header ou seu Footer) vai aparecer automaticamente em todas as páginas do site. Você nunca mais vai precisar copiar e colar um menu!
 
 page.js: Esta é a página inicial do seu site (a sua Home).
+
