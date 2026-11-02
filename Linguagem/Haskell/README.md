@@ -11,22 +11,25 @@ Set-ExecutionPolicy Bypass -Scope Process -Force;[System.Net.ServicePointManager
 
 **Manual**: https://learnyouahaskell.github.io/chapters.html
 
-
-# Hello World
+Para verificar:
 
 ````
 ghc --version
 ````
 
-The Glorious Glasgow Haskell Compilation System, version 8.10.7
+The Glorious Glasgow Haskell Compilation System, version x
 
+
+# Hello World
+
+Pelo terminal entre:
 ````
 ghci
 ````
 ````
 main = putStrLn "Hello, Haskell!"
 ````
-GHCi, version 9.10.3: https://www.haskell.org/ghc/  :? for help
+GHCi, version x: https://www.haskell.org/ghc/  :? for help
 
 
 ou
@@ -51,7 +54,7 @@ Nessa linguagem tudo é uma função que retorna um valor. A estrutura é:
 
 ``função var1 var2``
 
-Ex.: ``sum 1 2``
+Ex.: ``sum 1 2`` retorna ``3``
 
 
 # Função
@@ -61,14 +64,12 @@ Dá para definir uma função como:
 
 Exemplo:
 
-``doubleMe x = x + x  ``
+```
+doubleMe x = x + x
+```
 
-E depois chamar como:
-
-````
-doubleMe 9 
-18
-````
+E depois chamar como: ``doubleMe 9`` 
+que retorna ``18``
 
 Outro exemplo:
 ```
@@ -83,15 +84,13 @@ doubleUs 4 9
 
 Variável (ou constante) também é uma função, mas que não recebe parâmetro, só retorna o que foi definido.
 
-````
-valor = 5
+``valor = 5``
 
-conanO'Brien = "It's a-me, Conan O'Brien!"  
-````
+``conanO'Brien = "It's a-me, Conan O'Brien!" ``
 
 ### Tudo é uma função
 
-`x = 5`
+Em `x = 5`:
 
 - `5`: Uma função que não recebe parâmetros e o valor 5; 
 - `=`: Uma função que recebe `x` e `5` e atribui o valor de 5 em `x`;
@@ -200,6 +199,16 @@ doubleMe :: Int -> Int
 doubleMe x = x + x 
 ````
 ````
-addThree :: Int -> Int -> Int -> Int  
-addThree x y z = x + y + z  
+addThree :: Int -> Int -> Int  
+addThree x y = x + y
+````
+
+# Tuplas
+
+(2,2), ("cal", "ros"), (2, "ros"), (2, 1, 3) <- tripla
+
+````
+ghci> zip [1 .. 5] ["one", "two", "three", "four", "five"]
+
+[(1,"one"),(2,"two"),(3,"three"),(4,"four"),(5,"five")]
 ````
